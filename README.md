@@ -23,6 +23,7 @@ I keep this list as a backlog for my own portfolio. Ideas marked ✅ are already
 4. [Analytics & measurement](#4-analytics--measurement)
 5. [Brand & market research](#5-brand--market-research)
 6. [Toolbox: models, datasets, Spaces and libraries](#6-toolbox)
+7. [Daily builds](#daily-builds)
 
 ---
 
@@ -185,6 +186,14 @@ Run the same review or social analysis across languages to compare how a brand i
 | Model | [distilbert/distilbert-base-uncased-finetuned-sst-2-english](https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english) | Lightweight English sentiment baseline |
 | Dataset | [Yelp/yelp_review_full](https://huggingface.co/datasets/Yelp/yelp_review_full) | 1-5 star review text (see card for Yelp's terms) |
 | Dataset | [fancyzhx/amazon_polarity](https://huggingface.co/datasets/fancyzhx/amazon_polarity) | Positive/negative product reviews (Apache-2.0) |
+
+---
+
+## Daily builds
+
+New projects built from the ideas above, newest first.
+
+- **2026-10-26** · [dtc-growth-command-center](https://github.com/yashsarkar1806-creator/dtc-growth-command-center): Streamlit app for a fictional DTC brand with RFM and cohort retention, a channel budget optimiser, Hugging Face review sentiment, AI campaign briefs and an exportable insights report (synthetic data)
 
 ---
 
