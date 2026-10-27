@@ -193,6 +193,7 @@ Run the same review or social analysis across languages to compare how a brand i
 
 New projects built from the ideas above, newest first.
 
+- **2026-10-27** · [pakka-rto-shield](https://github.com/yashsarkar1806-creator/pakka-rto-shield): startup concept for Indian D2C brands that scores cash-on-delivery orders for return-to-origin risk, with a full GTM, pricing and metrics brief, a landing page with a live scoring demo, ROI calculator and UTM/dataLayer tracking ([live demo](https://yashsarkar1806-creator.github.io/pakka-rto-shield/), synthetic data)
 - **2026-10-26** · [dabara-coffee-landing](https://github.com/yashsarkar1806-creator/dabara-coffee-landing): landing page for a fictional DTC filter-coffee brand with an A/B headline test, UTM capture, blend quiz, INR/AUD subscription builder, GA4-style dataLayer events and a brand/GTM brief ([live demo](https://yashsarkar1806-creator.github.io/dabara-coffee-landing/))
 - **2026-10-26** · [dtc-growth-command-center](https://github.com/yashsarkar1806-creator/dtc-growth-command-center): Streamlit app for a fictional DTC brand with RFM and cohort retention, a channel budget optimiser, Hugging Face review sentiment, AI campaign briefs and an exportable insights report (synthetic data)
 
