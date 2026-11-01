@@ -193,6 +193,7 @@ Run the same review or social analysis across languages to compare how a brand i
 
 New projects built from the ideas above, newest first.
 
+- **2026-11-01** · [geo-lift-lab](https://github.com/yashsarkar1806-creator/geo-lift-lab): in-browser geo holdout (incrementality) test toolkit with a synthetic-control readout, placebo-test p-values, incremental ROAS, an MDE/power planner and plain-English stakeholder summaries ([live demo](https://yashsarkar1806-creator.github.io/geo-lift-lab/), synthetic data)
 - **2026-10-31** · [saaf-refills-prelaunch](https://github.com/yashsarkar1806-creator/saaf-refills-prelaunch): pre-launch referral waitlist page for a fictional DTC refillable-cleaner brand with referral codes, reward tiers, a k-factor loop simulator, launch-day funnel, dataLayer tracking and a GTM brief ([live demo](https://yashsarkar1806-creator.github.io/saaf-refills-prelaunch/))
 - **2026-10-31** · vernacular / voice AI day (Sarvam + Wispr-pattern):
   - [bolo-commerce](https://github.com/yashsarkar1806-creator/bolo-commerce): voice-first kirana ordering — Hindi/Bengali/Tamil/Hinglish → Sarvam STT/translate → structured cart → TTS reply, with demo mode and a marketer funnel dashboard ([live demo](https://yashsarkar1806-creator.github.io/bolo-commerce/))
